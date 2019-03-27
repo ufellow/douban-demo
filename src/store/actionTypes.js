@@ -1,0 +1,3 @@
+export const GET_ALL_HOTSMOVIES = 'GET_ALL_HOTSMOVIES'
+export const GET_TOP_MOVIES = 'GET_TOP_MOVIES'
+export const GET_TAG_MOVIES = 'GET_TAG_MOVIES'
